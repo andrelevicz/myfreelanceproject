@@ -1,0 +1,52 @@
+.container  {
+    background: linear-gradient(to right, #efedfb, #ecebf8);
+    height: 600px;
+    width: 1200px;
+    margin-top: 50px;
+    justify-content: center;
+}
+.containerIn  {
+    background: linear-gradient(to right, #efedfb, #ecebf8);
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+    padding-inline: 50px;
+}
+.tittle {
+    color: rgb(4, 0, 24);
+}
+.imgProfile {
+    height: 500px;
+    width: 300px;
+    border-radius: 500px;
+}
+.imgContainer {
+    border-radius: 500px;
+    background-color: 'red';
+}
+.tittleDescription {
+    color: rgb(4, 0, 24);
+}
+
+
+.tittleName {
+    color: rgb(4, 0, 24);
+}
+
+.textInfos {
+    align-items: center;
+    justify-content: center;
+}
+
+.oval {
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  .oval img {
+    height: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+  }
